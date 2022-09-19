@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "digitalDLSorteR"]
-	path = digitalDLSorteR
-	url = https://github.com/diegommcc/digitaldlsorter
-	shallow = true
-	registered = true
