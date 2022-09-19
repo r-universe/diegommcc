@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "digitalDLSorteR",
+    "oncran": true
+  }
+]
