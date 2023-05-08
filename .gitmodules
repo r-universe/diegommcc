@@ -8,3 +8,8 @@
 	url = https://github.com/diegommcc/digitaldlsorter
 	shallow = true
 	registered = true
+[submodule "SpatialDDLS"]
+	path = SpatialDDLS
+	url = https://github.com/diegommcc/spatialddls
+	shallow = true
+	registered = true
