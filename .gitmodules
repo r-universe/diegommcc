@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "digitalDLSorteR"]
-	path = digitalDLSorteR
-	url = https://github.com/diegommcc/digitaldlsorter
 [submodule "SpatialDDLS"]
 	path = SpatialDDLS
 	url = https://github.com/diegommcc/spatialddls
+[submodule "digitalDLSorteR"]
+	path = digitalDLSorteR
+	url = https://github.com/diegommcc/digitaldlsorter
