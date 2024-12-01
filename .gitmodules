@@ -5,6 +5,3 @@
 [submodule "SpatialDDLS"]
 	path = SpatialDDLS
 	url = https://github.com/diegommcc/spatialddls
-[submodule "digitalDLSorteR"]
-	path = digitalDLSorteR
-	url = https://github.com/diegommcc/digitaldlsorter
